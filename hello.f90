@@ -1,9 +1,16 @@
 program hello
-    write *, "Hello world"
-end program
-end program hello
-:wq
-end program hello
-:wq
+    character(20):myname
+    write *, "Ingrese nombre"
+
+
+
+    read *, mynam
+
+
+
+
+
+
+
 
 
